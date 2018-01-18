@@ -1,3 +1,8 @@
+index.js
+test/root.js
+
+
+
 JavaScript Intro to Functions Lab
 ---
 
